@@ -17,9 +17,7 @@
 
    <!-- <link rel="stylesheet" href="/bootstrap/css/bootstrap-theme.min.css" crossorigin="anonymous"> -->
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-
-
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
    <link rel="stylesheet" href="bootstrap/w3.css">  
 
    <style>
@@ -104,14 +102,7 @@
             <img class="mySlides w3-animate-right" src="images/3.jpg" style="width:125%;margin-left:-13%;">
             <img class="mySlides w3-animate-right" src="images/4.jpg" style="width:125%;margin-left:-13%;">              
             <img class="mySlides w3-animate-right" src="images/5.jpg" style="width:125%;margin-left:-13%;">
-            <!--
-            <div style="margin-top:-23%;">
-               <button class="w3-btn-floating w3-left w3-hover-white" onclick="plusDivs(-1)">&#10094;</button>
-            </div>
-            <div style="margin-top:-23%;">
-               <button class="w3-btn-floating w3-right w3-hover-white" onclick="plusDivs(1)">&#10095;</button>
-            </div>
-            --> 
+
             <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
                <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
                <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
@@ -278,41 +269,6 @@
           </div>
         </div>
       </section>
-
-      <!-- <section class="w3-container w3-sand" style="height:100%;">
-      <div class="w3-jumbo w3-center">Creaters: </div>
-      <div class="w3-row-padding">
-
-<div class="w3-quarter w3-margin-bottom">
-  <ul class="w3-ul w3-border w3-center w3-hover-shadow">
-    <li class="w3-green w3-display-container" style="height:15%;"><p class="w3-xlarge w3-center">Shivansh Nalwaya</p></li>
-    <li class="w3-light-grey w3-padding-medium"><img src="images/s.jpg" style="width:100%"></li>
-  </ul>
-</div>
-
-<div class="w3-quarter w3-margin-bottom">
-  <ul class="w3-ul w3-border w3-center w3-hover-shadow">
-    <li class="w3-green w3-display-container" style="height:15%;"><p class="w3-xlarge w3-center">Neha Karmakar</p></li>
-    <li class="w3-light-grey w3-padding-medium"><img src="images/s.jpg" style="width:100%;right:10px;"></li>
-  </ul>
-</div>
-
-<div class="w3-quarter w3-margin-bottom">
-  <ul class="w3-ul w3-border w3-center w3-hover-shadow">
-    <li class="w3-green w3-display-container" style="height:15%;"><p class="w3-xlarge w3-center">Kirti Joshi</p></li>
-    <li class="w3-light-grey w3-padding-medium"><img src="images/s.jpg" style="width:100%"></li>
-  </ul>
-</div>
-<div class="w3-quarter w3-margin-bottom">
-  <ul class="w3-ul w3-border w3-center w3-hover-shadow">
-    <li class="w3-green w3-display-container" style="height:15%;"><p class="w3-xlarge w3-center">Erum Sanwari</p></li>
-    <li class="w3-light-grey w3-padding-medium"><img src="images/s.jpg" style="width:100%"></li>
-  </ul>
-</div>
-
-</div>
-
-      </section> -->
 
    <section class="w3-container w3-yellow w3-display-container" style="height:50%">
 
